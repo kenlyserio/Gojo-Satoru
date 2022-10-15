@@ -3457,7 +3457,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
+                                    displayText: 'Whatsapp Group📍',
                                     url: `${myweb}`
                                 }
                             }, {
@@ -3859,7 +3859,7 @@ case 'allmenu': {
                             hydratedFooterText: `${pushname}`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'YouTube📍',
+                                    displayText: 'WhatsApp Group📍',
                                     url: `${myweb}`
                                 }
                             }, {
